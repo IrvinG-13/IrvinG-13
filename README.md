@@ -3,15 +3,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=irving-13&label=Profile%20views&color=0e75b6&style=flat" alt="irving-13" /> </p>
 
-- 🔭 I’m currently working on **Tribute Page**
+- 🔭 I’m currently working on **Todo-List**
 
 - 👨‍💻 All of my projects are available at [https://irving-13.github.io/Portfolio-Responsive.github.io/](https://irving-13.github.io/Portfolio-Responsive.github.io/)
 
-- 💬 Ask me about **HTML, CSS, JavaScript, BootStrap, ReactJS**
+- 💬 Ask me about **HTML5, CSS3, JavaScript, BootStrap4, ReactJS**
 
 - 📫 How to reach me **irvigonza13@gmail.com**
 
-- ⚡ Fun fact **I am Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
